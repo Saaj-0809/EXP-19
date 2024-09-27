@@ -146,3 +146,4 @@ int main() {
 ![image](https://github.com/user-attachments/assets/8d85846e-e618-4d61-9314-cfe71bf4e816)
 
 ## CONCLUSION:
+This C++ program successfully demonstrates the implementation of a queue using an array. The key operations supported include insertion (enqueue), deletion (dequeue), and displaying the elements of the queue. The program effectively handles the queue's overflow and underflow conditions, ensuring that the user is notified when attempting to exceed the queue's capacity or remove elements from an empty queue. While functional, this implementation is limited by the fixed size of the array, which can be improved by using dynamic memory allocation or implementing a circular queue to make better use of space.
